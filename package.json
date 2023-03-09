@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/davislamenha/exercicio-modulo16-ebac#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.58.3"
   }
 }
